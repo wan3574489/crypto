@@ -12,7 +12,7 @@ package macOS
 
 import (
 	"errors"
-	"internal/abi"
+	"github.com/wan3574489/crypto/x509/internal/abi"
 	"reflect"
 	"runtime"
 	"unsafe"
